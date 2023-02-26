@@ -1,0 +1,10 @@
+ext {
+    projectVersions = [
+            projectVersion     : '0.0.1-SNAPSHOT',
+            sourceCompatibility: '17',
+    ]
+
+    databaseVersions = [
+            jooq: '3.17.8',
+    ]
+}
